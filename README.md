@@ -5,3 +5,7 @@ Hey! A few projects I have been working on:
 
 - ✨ [Threlte Particles](https://github.com/edsunman/threlte-particles) is a particle emitter for Threlte
 - 🎞️ [Threlte Animation Utils](https://gist.github.com/edsunman/a0ff818e5d894bbd1558b3f6038d19ed) are helper functions for creating basic animations in Threlte.
+
+And my latest blog post:
+
+- 📖 [Building "Infinite Turtles"](https://threlte.xyz/blog/building-infinite-turtles)
